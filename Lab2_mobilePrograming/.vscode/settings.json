@@ -1,0 +1,12 @@
+{
+  "java.import.gradle.wrapper.enabled": false,
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "java.import.gradle.enabled": false,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/android/build": true,
+    "**/android/.gradle": true
+  },
+  "java.project.sourcePaths": [],
+  "java.project.referencedLibraries": []
+}
